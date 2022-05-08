@@ -1,0 +1,7 @@
+I will show you steps for placing an order for an online product seller. Steps for placing an order are shown as below:
+1. Select a Product from online store
+2. Register yourself for placing an order
+3. Enter your billing or shipping address where your product will be delivered
+4. Make payment for your order
+5. Get the confirmation message once your order has been successfully placed
+Create an interface
